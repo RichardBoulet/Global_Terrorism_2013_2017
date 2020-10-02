@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# custom
+config.py
+GTD_13_18.csv
+GTD_13_18.xlsx
